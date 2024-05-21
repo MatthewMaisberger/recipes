@@ -1,1 +1,1 @@
-# recipes
+This is a project for a basic recipes website
